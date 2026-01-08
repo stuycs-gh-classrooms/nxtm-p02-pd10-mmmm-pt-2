@@ -14,21 +14,21 @@ This will use a grid game board and collision detection.
 ### Skill Usage
 Explain what skills from this semester you will be using in this project, and how they will be used.
 
-Basic drawing functions: used to render the grid and blocks, and other UI elements like borders and score. 
-Controlling Color State & Using Colors: fill() and stroke() used to differentiate tetris blocks by color. 
-Primitive Variables & Types: int vals for grid dimension, score, positions
-Working with Boolean Values: collision detection, game over
-setup() and draw(): setup will initialize grid, colors, first tetris piece. draw will update the falling and read player input.
-Controlling Program Speed: will use frame count to increase speed
-Custom Functions: will need to create custom functions within the driver file, like drawBoard() or spawnPiece()
-Writing Readable Code & Debugging Practices: will utilize white space, comments, and break large tasks into functions.
-Conditional Statements: conditionals will be used for various things, like collisions and game over
-Loops: will loop to iterate through the grid to find rows. both for and while
-Handling Events: will respond to keyPressed() and mousePressed()
-Using Objects & Writing Classes: we will need classes for tetris pieces and the board. we will include fields/methods, use constructors, and reference objects.
-Using Arrays & 2D Arrays: grid will be 2d array, tetris shapes will be 1D or 2D depending on shape
-Searching: scanning the grid for completed lines
-Utilizing Randomness: next tetris piece will be decided using random selection
+- Basic drawing functions: used to render the grid and blocks, and other UI elements like borders and score. 
+- Controlling Color State & Using Colors: fill() and stroke() used to differentiate tetris blocks by color. 
+- Primitive Variables & Types: int vals for grid dimension, score, positions
+- Working with Boolean Values: collision detection, game over
+- setup() and draw(): setup will initialize grid, colors, first tetris piece. draw will update the falling and read player input.
+- Controlling Program Speed: will use frame count to increase speed
+- Custom Functions: will need to create custom functions within the driver file, like drawBoard() or spawnPiece()
+- Writing Readable Code & Debugging Practices: will utilize white space, comments, and break large tasks into functions.
+- Conditional Statements: conditionals will be used for various things, like collisions and game over
+- Loops: will loop to iterate through the grid to find rows. both for and while
+- Handling Events: will respond to keyPressed() and mousePressed()
+- Using Objects & Writing Classes: we will need classes for tetris pieces and the board. we will include fields/methods, use constructors, and reference objects.
+- Using Arrays & 2D Arrays: grid will be 2d array, tetris shapes will be 1D or 2D depending on shape
+- Searching: scanning the grid for completed lines
+- Utilizing Randomness: next tetris piece will be decided using random selection
 
 
 ### Controls
